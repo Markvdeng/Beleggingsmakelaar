@@ -1,0 +1,13 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'generate_lead',
+ 'form_type': 'verkoop'
+ 'form_id': 'randomly generated id to recognize form submission'
+ 'naam': 'naam van de aanvrager'
+ 'name': 'naam van de aanvrager'
+ 'email': 'email van de aanvrager'
+ 'telefoon': 'telefoonnummer van de aanvrager'
+ 'beschrijving': 'beschrijving bij de aanvraag'
+ });
+</script>

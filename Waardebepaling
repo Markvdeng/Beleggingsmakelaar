@@ -1,0 +1,29 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'generate_lead',
+ 'form_type': 'waardebepaling'
+ 'form_id': 'randomly generated id to recognize form submission'
+ 'datum': vandaag,
+ 'postcode': postcode,
+ 'straat': stad,
+ 'huisnummer': huisnummer,
+ 'm2 ingevuld': vierkante_meters,
+ 'verhuurd': verhuurd,
+ 'soort woning': soort_woning,
+ 'onderhouden': onderhouden,
+ 'waarde laag': str(laag_fix),
+ 'waarde hoog': str(hoog_fix),
+ 'waarde Waardeloket': int(float(bod_waarde)),
+ 'meterprijs': meterprijs,
+ 'm2 woz': test_waarde,
+ 'buitenruimte': balkon_of_tuin,
+ 'verkoop intenties': verkopen_korte_termijn,
+ 'gewoon nieuwsgierig': woning_waarde_weten,
+ 'sales en leaseback': verkopen_en_terughuur,
+ 'extra gegevens': extra_detail,
+ 'email': email,
+ 'telefoon': telefoon,
+ 'verstuurd_email': nee
+ });
+</script>

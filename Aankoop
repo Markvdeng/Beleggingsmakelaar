@@ -1,0 +1,23 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'generate_lead',
+ 'form_type': 'aankoop'
+ 'form_id': 'randomly generated id to recognize form submission'
+ 'voornaam': 'voornaam'
+ 'achternaam': 'achternaam'
+ 'email': 'email'
+ 'telefoon': 'telefoon'
+ 'geintresseerd_in': 'geintresseerd_in'
+ 'beschrijving': 'beschrijving'
+ 'zoekrange': 'zoekrange'
+ 'provincies': 'provincies'
+ 'prijscat_laag': 'prijscat_laag'
+ 'prijscat_hoog': 'prijscat_hoog'
+ 'ervaring': 'ervaring'
+ 'kopen_zonder_voorbehoud': 'kopen_zonder_voorbehoud'
+ 'aantal_panden_2_jaar': 'aantal_panden_2_jaar'
+ 'aankopen_per_jaar': 'aankopen_per_jaar'
+ 'pand_al_tekoop': 'pand_al_tekoop'
+ });
+</script>
